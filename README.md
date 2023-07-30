@@ -1,5 +1,5 @@
 # Dashboard on OTT Platforms
-This Tableau dashboard provides a comprehensive overview of the top three OTT (Over-The-Top) platforms, namely Amazon Prime, Hulu, and Netflix. The dashboard showcases essential data related to the movies and TV shows available on these platforms, allowing users to gain valuable insights and make data-driven decisions.
+This Tableau dashboard provides a comprehensive overview of the top three OTT platforms, namely Amazon Prime, Hulu, and Netflix. The dashboard showcases essential data related to the movies and TV shows available on these platforms, allowing users to gain valuable insights and make data-driven decisions.
 
 ### <a href='https://public.tableau.com/app/profile/pavithra.moorthy3267/viz/G24_OTTPlatforms/Dashboard1'> Tableau Dashboard </a>
 
