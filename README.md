@@ -15,4 +15,4 @@ This Tableau dashboard provides a comprehensive overview of the top three OTT pl
 * Timeline Categorization: Explore the temporal distribution of content in the "Timeline Categorization" section. Use the slider to select a specific year or range, and the bar chart will update accordingly.
 * Type Categorization: Analyze the distribution of content types on each platform in the "Type Categorization" section. Click on the checkboxes to filter content types, and the donut chart will reflect the changes.
 
-<a href='https://public.tableau.com/app/profile/pavithra.moorthy3267/viz/G24_OTTPlatforms/Dashboard1'> Tableau Dashboard </a>
+
